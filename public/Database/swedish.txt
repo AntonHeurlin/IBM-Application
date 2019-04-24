@@ -1,0 +1,1 @@
+O:24:"TastyRecipes\Model\Entry":4:{s:9:"nick_name";s:5:"Anton";s:3:"msg";s:7:"waaasda";s:9:"timestamp";s:19:"2018-12-13 16:55:01";s:7:"deleted";b:0;};
