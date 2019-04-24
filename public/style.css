@@ -1,0 +1,25 @@
+/* Pretty little colours. */
+
+body {
+  background-color: #f4f4f4;
+}
+#console {
+  display: inline-block;
+  width: 25rem;
+  height: 20rem;
+  overflow: auto;
+  vertical-align: top;
+}
+#chart_wrapper {
+  display: inline-block;
+  width: 40%;
+  height: 40rem;
+}
+#chart {
+  display: inline-block;
+}
+.cmd_line {
+  display: block;
+  margin-top: 0px;
+  margin-bottom: -6px;
+}

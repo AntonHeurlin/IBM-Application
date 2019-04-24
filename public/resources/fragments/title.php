@@ -1,1 +1,0 @@
-Chat program with PHP server and ID1354 framework. There is no JavaScript, click Load Entries to see changes.

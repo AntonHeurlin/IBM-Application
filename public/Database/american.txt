@@ -1,8 +1,0 @@
-O:24:"TastyRecipes\Model\Entry":4:{s:9:"nick_name";s:5:"Anton";s:3:"msg";s:7:"testing";s:9:"timestamp";s:19:"2018-12-13 13:02:17";s:7:"deleted";b:1;};
-O:24:"TastyRecipes\Model\Entry":4:{s:9:"nick_name";s:5:"Anton";s:3:"msg";s:3:"hej";s:9:"timestamp";s:19:"2018-12-13 13:48:55";s:7:"deleted";b:1;};
-O:24:"TastyRecipes\Model\Entry":4:{s:9:"nick_name";s:17:"InternetTroll1337";s:3:"msg";s:3:"Hej";s:9:"timestamp";s:19:"2018-12-13 13:50:14";s:7:"deleted";b:1;};
-O:24:"TastyRecipes\Model\Entry":4:{s:9:"nick_name";s:5:"Anton";s:3:"msg";s:3:"hej";s:9:"timestamp";s:19:"2018-12-13 14:47:46";s:7:"deleted";b:1;};
-O:24:"TastyRecipes\Model\Entry":4:{s:9:"nick_name";s:5:"Anton";s:3:"msg";s:7:"vad nu?";s:9:"timestamp";s:19:"2018-12-13 14:49:59";s:7:"deleted";b:1;};
-O:24:"TastyRecipes\Model\Entry":4:{s:9:"nick_name";s:5:"Anton";s:3:"msg";s:5:"anton";s:9:"timestamp";s:19:"2018-12-14 10:37:51";s:7:"deleted";b:1;};
-O:24:"TastyRecipes\Model\Entry":4:{s:9:"nick_name";s:5:"Anton";s:3:"msg";s:3:"lol";s:9:"timestamp";s:19:"2018-12-14 10:38:02";s:7:"deleted";b:1;};
-O:24:"TastyRecipes\Model\Entry":4:{s:9:"nick_name";s:5:"Anton";s:3:"msg";s:4:"bug?";s:9:"timestamp";s:19:"2018-12-14 10:45:25";s:7:"deleted";b:0;};
