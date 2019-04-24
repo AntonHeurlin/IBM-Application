@@ -4,7 +4,7 @@ var config = {
   data: {
     labels: [],
     datasets: [{
-      label: 'Temperature',
+      label: 'FUCKSGIVEN',
       data: [],
       fill: false,
       borderColor: '#006699'
@@ -73,5 +73,3 @@ class TempChart {
     this.chart.update();
   }
 }
-
-
